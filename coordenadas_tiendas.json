@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.670722, 40.406306]
+      },
+      "properties": {
+        "nombre": "Tienda Prueba"
+      }
+    }
+  ]
+}
