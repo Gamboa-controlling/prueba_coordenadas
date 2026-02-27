@@ -9,8 +9,9 @@
       },
       "properties": {
         "nombre": "Conde de Casal",
+        "codigo_postal": "28007",
         "MARCA": "Hyundai",
-        "marker-color": "#0047BB"
+        "color": "#0047BB"
       }
     },
     {
@@ -21,8 +22,9 @@
       },
       "properties": {
         "nombre": "Aguacate",
+        "codigo_postal": "28044",
         "MARCA": "Hyundai",
-        "marker-color": "#0047BB"
+        "color": "#0047BB"
       }
     },
     {
@@ -33,8 +35,9 @@
       },
       "properties": {
         "nombre": "Castellana",
+        "codigo_postal": "28046",
         "MARCA": "Hyundai",
-        "marker-color": "#0047BB"
+        "color": "#0047BB"
       }
     },
     {
@@ -45,8 +48,9 @@
       },
       "properties": {
         "nombre": "Majadahonda",
+        "codigo_postal": "28220",
         "MARCA": "Hyundai",
-        "marker-color": "#0047BB"
+        "color": "#0047BB"
       }
     },
     {
@@ -57,8 +61,9 @@
       },
       "properties": {
         "nombre": "El Plantio",
+        "codigo_postal": "28023",
         "MARCA": "Hyundai",
-        "marker-color": "#0047BB"
+        "color": "#0047BB"
       }
     },
     {
@@ -69,8 +74,9 @@
       },
       "properties": {
         "nombre": "Atocha",
+        "codigo_postal": "28012",
         "MARCA": "BYD",
-        "marker-color": "#FF1E56"
+        "color": "#FF1E56"
       }
     },
     {
@@ -81,9 +87,11 @@
       },
       "properties": {
         "nombre": "Rivas",
+        "codigo_postal": "28521",
         "MARCA": "BYD",
-        "marker-color": "#FF1E56"
+        "color": "#FF1E56"
       }
     }
   ]
 }
+
