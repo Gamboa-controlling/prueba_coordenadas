@@ -60,6 +60,30 @@
         "MARCA": "Hyundai",
         "marker-color": "#0047BB"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.672500, 40.399861]
+      },
+      "properties": {
+        "nombre": "Atocha",
+        "MARCA": "BYD",
+        "marker-color": "#FF1E56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.543111, 40.354333]
+      },
+      "properties": {
+        "nombre": "Rivas",
+        "MARCA": "BYD",
+        "marker-color": "#FF1E56"
+      }
     }
   ]
 }
