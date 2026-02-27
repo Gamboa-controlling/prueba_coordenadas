@@ -8,7 +8,47 @@
         "coordinates": [-3.670722, 40.406306]
       },
       "properties": {
-        "nombre": "Tienda Prueba"
+        "nombre": "Conde de Casal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.746278, 40.372500]
+      },
+      "properties": {
+        "nombre": "Aguacate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.687639, 40.470444]
+      },
+      "properties": {
+        "nombre": "Castellana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.872028, 40.455306]
+      },
+      "properties": {
+        "nombre": "Majadahonda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.810556, 40.466417]
+      },
+      "properties": {
+        "nombre": "El Plantio"
       }
     }
   ]
