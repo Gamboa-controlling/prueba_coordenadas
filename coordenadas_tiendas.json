@@ -8,7 +8,8 @@
         "coordinates": [-3.670722, 40.406306]
       },
       "properties": {
-        "nombre": "Conde de Casal"
+        "nombre": "Conde de Casal",
+        "MARCA": "Hyundai"
       }
     },
     {
@@ -18,7 +19,8 @@
         "coordinates": [-3.746278, 40.372500]
       },
       "properties": {
-        "nombre": "Aguacate"
+        "nombre": "Aguacate",
+        "MARCA": "Hyundai"
       }
     },
     {
@@ -28,7 +30,8 @@
         "coordinates": [-3.687639, 40.470444]
       },
       "properties": {
-        "nombre": "Castellana"
+        "nombre": "Castellana",
+        "MARCA": "Hyundai"
       }
     },
     {
@@ -38,7 +41,8 @@
         "coordinates": [-3.872028, 40.455306]
       },
       "properties": {
-        "nombre": "Majadahonda"
+        "nombre": "Majadahonda",
+        "MARCA": "Hyundai"
       }
     },
     {
@@ -48,7 +52,8 @@
         "coordinates": [-3.810556, 40.466417]
       },
       "properties": {
-        "nombre": "El Plantio"
+        "nombre": "El Plantio",
+        "MARCA": "Hyundai"
       }
     }
   ]
